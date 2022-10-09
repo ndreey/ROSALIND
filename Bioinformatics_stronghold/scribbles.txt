@@ -1,0 +1,10 @@
+
+INPUT: Two sequences
+OUTPUT: The amount of difference in the sequences.
+
+Subproblems:
+
+1. Store the seq
+2. Compare the sequence
+3. If that char != char update variable
+4. Print
